@@ -1,1 +1,6 @@
-{}
+{
+    "name": "test0000",
+    "description": "Build Ada project with GPRbuild.",
+    "iconName": "temp",
+    "categories": ["Automation"]
+}
