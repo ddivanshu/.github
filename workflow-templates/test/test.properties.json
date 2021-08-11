@@ -3,5 +3,5 @@
     "name": "test11",
     "description": "Build Ada project with GPRbuild.",
     "iconName": "temp",
-    "categories": ["Automation","python"]
+    "categories": ["Automation","Python"]
 }
