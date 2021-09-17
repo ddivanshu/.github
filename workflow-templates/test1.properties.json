@@ -2,5 +2,5 @@
     "name": "test0000",
     "description": "Build Ada project with GPRbuild.",
     "iconName": "temp",
-    "categories": ["Automation"]
+    "categories": ["JavaScript", "npm", "React", "Angular"]
 }
